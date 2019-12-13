@@ -1,6 +1,6 @@
 # flutter_app_test
 
-A test application to get familiar with the Flutter environment.
+A test application to get familiar with the Flutter environment by making a simple counter application.
 
 ## Getting Started
 
